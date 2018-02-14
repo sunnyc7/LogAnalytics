@@ -1,0 +1,2 @@
+# LogAnalytics
+Exploring stuff here
